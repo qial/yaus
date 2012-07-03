@@ -8,7 +8,7 @@
 <body>
 <div id="urlbox">
 	<div class="url-input">
-		<form method="post" action="/new.php">
+		<form method="post" action="/yaus/new.php">
 		<input type="text" name="url" />
 		<br/>
 		<input type="submit"/>
